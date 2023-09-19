@@ -1,0 +1,4 @@
+/Users/rui/Desktop/图灵/【Spring Cloud Alibaba微服务-徐庶】/代码&资料/springcloudalibaba/order-ribbon/src/main/java/com/tulingxueyuan/order/OrderApplication.java
+/Users/rui/Desktop/图灵/【Spring Cloud Alibaba微服务-徐庶】/代码&资料/springcloudalibaba/order-ribbon/src/main/java/com/tulingxueyuan/ribbon/rule/CustomRule.java
+/Users/rui/Desktop/图灵/【Spring Cloud Alibaba微服务-徐庶】/代码&资料/springcloudalibaba/order-ribbon/src/main/java/com/tulingxueyuan/order/controller/OrderController.java
+/Users/rui/Desktop/图灵/【Spring Cloud Alibaba微服务-徐庶】/代码&资料/springcloudalibaba/order-ribbon/src/main/java/com/tulingxueyuan/ribbon/RibbonRandomRuleConfig.java
