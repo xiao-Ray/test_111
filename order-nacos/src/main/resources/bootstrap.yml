@@ -1,0 +1,23 @@
+
+spring:
+  application:
+    name: order-service
+  cloud:
+    nacos:
+      server-addr: localhost:8848
+      discovery:
+        username: nacos
+        password: nacos
+        namespace: dev
+      config:
+        server-addr: localhost:8848
+#        file-extension: yaml
+        #        username: nacos
+        #        password: nacos
+        namespace: dev
+        group: DEFAULT_GROUP
+        ext-configs[0]:
+          data-id: order-service
+          refresh: true
+
+
